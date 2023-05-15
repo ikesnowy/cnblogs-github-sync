@@ -1,3 +1,3 @@
 $$
-a /ge b
+a /ge b /eq c
 $$
