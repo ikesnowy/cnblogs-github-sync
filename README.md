@@ -11,6 +11,8 @@ categories: 分类1, 分类2
 
 ![](./content/MYXJ_20180220114345_fast.jpg)
 
+<img src="/MYXJ_20180220114345_fast.jpg" alt="test" />
+
 $$
 a /ge b /eq c
 $$
