@@ -7,11 +7,11 @@ tags:
 categories: 分类1, 分类2
 ---
 
-![](MYXJ_20180220114345_fast.jpg)
+![](测试.jpg)
 
-![](./content/MYXJ_20180220114345_fast.jpg)
+![](./测试.jpg)
 
-<img src="/MYXJ_20180220114345_fast.jpg" alt="test" />
+<img src="/测试.jpg" alt="test" />
 
 $$
 a /ge b /eq c
